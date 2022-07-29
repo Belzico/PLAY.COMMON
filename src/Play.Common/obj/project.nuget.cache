@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Af75vw7As0gm8SwURzhR4yXym3K3my+wevSCVssZm8Ruj/V5gZKNJQA3aiHajmo9JA9PeAqOZoHhe4UEPXFp6A==",
+  "dgSpecHash": "FpMujqd5HDftk0ooBP5GBaJPfK5MDWHXAkxlMaa0ZBayfghcqe8esqAxWmQ10kW7d6zzj4IFc6ji2sLGvu+Z4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bell\\Documents\\GitHub\\PLAY.COMMON\\src\\Play.Common\\Play.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bell\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Bell\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\Bell\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bell\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "C:\\Users\\Bell\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Bell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Bell\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
